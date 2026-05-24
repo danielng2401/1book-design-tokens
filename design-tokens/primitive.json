@@ -5918,5 +5918,9 @@
         }
       }
     }
+  },
+  "spacing-2": {
+    "$value": 8,
+    "$type": "number"
   }
 }
