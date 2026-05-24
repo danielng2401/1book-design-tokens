@@ -1202,6 +1202,6 @@
   },
   "spacing-1": {
     "$type": "spacing",
-    "$value": "4"
+    "$value": "8"
   }
 }
